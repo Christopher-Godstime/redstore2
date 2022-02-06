@@ -1,2 +1,2 @@
-# redstore2
-ecommerce website
+# redstore
+redstore folder
